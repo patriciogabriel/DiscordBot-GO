@@ -10,3 +10,7 @@ Para rodar diretamente no diretório
 ```sh
 $ go run main.go
 ```
+## To do
+
+- [ ] Melhorar o funcionamento da calculadora
+- [ ] Adicionar funções administrativas
